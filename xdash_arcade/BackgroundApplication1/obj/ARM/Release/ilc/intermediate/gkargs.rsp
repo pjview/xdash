@@ -1,0 +1,8 @@
+/In:"C:\Users\VRLab1001\Documents\xdash_arcade\BackgroundApplication1\obj\ARM\Release\ilc\in"
+/Lib:"C:\Users\VRLab1001\Documents\xdash_arcade\BackgroundApplication1\obj\ARM\Release\ilc\in"
+/Lib:"C:\Users\VRLab1001\.nuget\packages\microsoft.net.native.compiler\1.7.3\tools\ARM\ilc\lib\Private"
+/Lib:"C:\Program Files (x86)\Windows Kits\10\References\10.0.17134.0\Windows.System.SystemManagementContract\5.0.0.0"
+/WinMD:"C:\Users\VRLab1001\Documents\xdash_arcade\BackgroundApplication1\obj\ARM\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"ecef4540-6834-4642-8e66-8a284a7b87f0","Id":"9676e2e8-9998-4d6a-a18d-e8942019ccd4","ProcessStartTime":637535582651443134}"
+/RdXmlPath:"C:\Users\VRLab1001\.nuget\packages\microsoft.net.native.compiler\1.7.3\tools\LibraryXML"
+/RunOnlyPreDR

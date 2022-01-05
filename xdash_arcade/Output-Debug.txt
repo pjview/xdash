@@ -1,0 +1,199 @@
+﻿'backgroundTaskHost.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Data\Programs\WindowsApps\Microsoft.NET.CoreRuntime.1.1_1.1.27004.0_arm__8wekyb3d8bbwe\System.Private.CoreLib.ni.dll'. Cannot find or open the PDB file.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\BackgroundApplication1.winmd'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Runtime.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Programs\WindowsApps\Microsoft.NET.CoreRuntime.1.1_1.1.27004.0_arm__8wekyb3d8bbwe\mscorlib.ni.dll'. Cannot find or open the PDB file.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\WinMetadata\Windows.winmd'. Module was built without symbols.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Runtime.InteropServices.WindowsRuntime.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Net.Primitives.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.ComponentModel.EventBasedAsync.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Text.Encoding.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Threading.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Diagnostics.Debug.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Net.Sockets.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Net.NameResolution.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Threading.Tasks.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\Microsoft.VisualBasic.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Runtime.Extensions.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.IO.IsolatedStorage.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.IO.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.IO.FileSystem.Primitives.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.IO.FileSystem.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Runtime.InteropServices.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Runtime.Handles.dll'. Symbols loaded.
+read record file...
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Threading.Overlapped.dll'. Symbols loaded.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Runtime.WindowsRuntime.dll'. Symbols loaded.
+finish
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\Microsoft.Win32.Primitives.dll'. Symbols loaded.
+Local IP : 192.168.148.208
+read network config file...
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Globalization.dll'. Symbols loaded.
+finish
+HostControl_IP 127.0.0.1
+Control_PortRX 16677
+Control_PortTXSource 25577
+Control_PortTXTarget 15588
+Dashboard_IP 127.0.0.1
+Dashboard_PortTXSource 10021
+DashboardStatus_PortTXTarget 8102
+DashboardCommand_PortTXTarget 8100
+Telemetry_IP 192.168.148.220
+Telemetry_PortTXSource 10022
+Telemetry_PortTXTarget 27000
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Diagnostics.Tracing.dll'. Module was built without symbols.
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Collections.dll'. Symbols loaded.
+read hardware config file...
+finish
+read hardware config file...
+finish
+read hardware config file...
+finish
+Motor0 Drv:0 CH:1
+Motor1 Drv:0 CH:0
+Motor2 Drv:1 CH:0
+Motor3 Drv:1 CH:1
+Motor4 Drv:-1 CH:-32768
+Motor5 Drv:-1 CH:-32768
+Motor6 Drv:-1 CH:-32768
+Motor7 Drv:-1 CH:-32768
+read axis config file...
+finish
+read operation config file...
+finish
+Auto_Start : 1
+Telemetry_Mode : 0
+Telemetry_Interval : 0
+Telemetry_Timeout : 50
+Delay_ParameterSet : 100
+Delay_StateChange : 100
+Range : 0.123000001907349
+
+Range : 0.123000001907349
+
+Range : 0.123000001907349
+
+Range : 0.128000001907349
+
+- Config Status -
+Axis[0] OK
+Axis[1] OK
+Axis[2] OK
+Axis[3] OK
+Axis[4] Incomplete
+Axis[5] Incomplete
+Axis[6] Incomplete
+Axis[7] Incomplete
+Start - UDP Wheel Receiver
+Start - UDP Command Receiver
+CMD-RX A [127.0.0.1:16677]
+CMD-RX B [127.0.0.1:16677]
+Start - UDP Broadcast Receiver
+Start - UART TX TASK
+Start - UART RX TASK0
+Start - UART RX TASK1
+Start - UART RX TASK2
+Start - UART RX TASK3
+Start - UART RX TASK4
+Start - UART RX TASK5
+Start - GPIO
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Linq.dll'. Symbols loaded.
+Start - State Machine
+Start - UDP Transmitter
+CONNECT : 0[115200] : \\?\USB#VID_1209&PID_0D32&MI_00#6&3088578c&0&0000#{86e0d1e0-8089-11d0-9ce4-08003e301f73}
+'backgroundTaskHost.exe' (CoreCLR: CoreCLR_UWP_Domain): Loaded 'C:\Data\Users\DefaultAccount\AppData\Local\DevelopmentFiles\xDashControlDEBUG-uwpVS.Debug_ARM.VRLab1001\System.Reflection.dll'. Module was built without symbols.
+Drive 0 connected
+CONNECT : 1[115200] : \\?\USB#VID_1209&PID_0D32&MI_00#6&1d9af2f&0&0000#{86e0d1e0-8089-11d0-9ce4-08003e301f73}
+Drive 1 connected
+Control not config
+CONNECT : 4[115200] : \\?\ACPI#BCM2836#0#{86e0d1e0-8089-11d0-9ce4-08003e301f73}
+System PCB connected
+Display not config
+- Axis Encoder Check -
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+R:0 S:0 T:0 C:0
+R:0 S:0 T:0 C:0
+R:0 S:0 T:0 C:0
+R:0 S:0 T:0 C:0
+R:0 S:0 T:0 C:0
+M0:0 SNR:4 Dist:0 False
+M1:0 SNR:4 Dist:0 False
+M2:0 SNR:4 Dist:0 False
+M3:0 SNR:4 Dist:0 False
+- Auto startup sequence begin -
+Drive[0] status : PASS
+Drive[1] status : PASS
+Drive[2] status : FAIL
+Drive[3] status : FAIL
+ - Axis homing begin - 
+Axis Encoder 0 Ignore
+Axis Encoder 1 Ignore
+Axis Encoder 2 Ignore
+Axis Encoder 3 Ignore
+Axis 4 not assign to motor
+Axis 5 not assign to motor
+ - Axis homing finish - 
++++ HOME MULTI X +++
+Ax0 : Drive 0 Motor 1 Sensor 0
+Ax1 : Drive 0 Motor 0 Sensor 2
+Ax2 : Drive 1 Motor 0 Sensor 1
+Ax3 Home Disable
+Ax4 Home Disable
+Ax5 Home Disable
+Ax6 Home Disable
+Ax7 Home Disable
+check DRV:0 OUT:1 Axis:0
+
+check DRV:0 OUT:0 Axis:1
+
+check DRV:1 OUT:0 Axis:2
+
+check DRV:1 OUT:1 Axis:3
+
+Calibration parameter update (Axis:0 Profile ID:0)
+Motor State Request : 1
+Calibration parameter update (Axis:1 Profile ID:0)
+Motor State Request : 1
+Calibration parameter update (Axis:2 Profile ID:0)
+Motor State Request : 1
+EVENT - DRV:0 OUT:1 Axis:0 [axis:0 motor encoder check]
+EVENT - DRV:0 OUT:0 Axis:1 [axis:1 motor encoder check]
+EVENT - DRV:1 OUT:0 Axis:2 [axis:2 motor encoder check]
+EVENT - DRV:1 OUT:1 Axis:3 [axis:3 motor encoder check]
+ERROR: motor not idle state
+That is no moon
+- Axis Status -
+Axis0:OK
+Axis1:OK
+Axis2:OK
+Axis3:OK
+Axis4:Disable
+Axis5:Disable
+MotorState Request : 1 Profile : 1
+Motor State Request : 1
+EVENT - DRV:0 OUT:1 Axis:0 [idle]
+Motor State Request : 1
+EVENT - DRV:0 OUT:0 Axis:1 [idle]
+Motor State Request : 1
+EVENT - DRV:1 OUT:0 Axis:2 [idle]
+Motor State Request : 1
+EVENT - DRV:1 OUT:1 Axis:3 [idle]
+normal profile select
+Axis(0)profile id:1
+Axis(1)profile id:1
+Axis(2)profile id:1
+Axis(3)profile id:4
+profile update
+check DRV:0 OUT:1 Axis:0
+
+check DRV:0 OUT:0 Axis:1
+
+check DRV:1 OUT:0 Axis:2
+
+check DRV:1 OUT:1 Axis:3
+
+- Auto startup sequence end -
+- Startup sequence end -
+The program '[916] backgroundTaskHost.exe' has exited with code -1 (0xffffffff).

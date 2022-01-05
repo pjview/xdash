@@ -1,0 +1,22 @@
+﻿1>------ Build started: Project: xDashControlDEBUG, Configuration: Release ARM ------
+1>C:\Users\VRLab1001\Documents\xdash_arcade\BackgroundApplication1\StartupTask.vb(2629,23): warning BC42356: This async method lacks 'Await' operators and so will run synchronously. Consider using the 'Await' operator to await non-blocking API calls, or 'Await Task.Run(...)' to do CPU-bound work on a background thread.
+1>  xDashControlDEBUG -> C:\Users\VRLab1001\Documents\xdash_arcade\BackgroundApplication1\bin\ARM\Release\BackgroundApplication1.winmd
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\Microsoft\VisualStudio\v15.0\AppxPackage\Microsoft.AppXPackage.Targets(2519,5): warning APPX0108: The certificate specified has expired. For more information about renewing certificates, see http://go.microsoft.com/fwlink/?LinkID=241478.
+1>  Processing application code
+1>  Computing application closure and generating interop code
+1>    Loading 70 modules...
+1>C:\Users\VRLab1001\.nuget\packages\microsoft.net.native.compiler\1.7.3\tools\Microsoft.NetNative.targets(697,5): warning :       MCG : warning MCG0001: [MarshalAs(UnmanagedType=VBByRefStr, ElementType=(Default))] with type 'System.String' is invalid.This signature is located on 'System.Int32 BackgroundApplication1.Storage.GetDiskFreeSpaceEx(System.String, System.Int64, System.Int64, System.Int64)'.
+1>    Generating code...
+1>    Interop code generated.
+1>  Generating serialization code
+1>  Compiling interop code
+1>  Generating System.Reflection.DispatchProxy proxy code.
+1>  Cleaning up unreferenced code
+1>  Generating native code
+1>  Generating fixups for native code
+2>------ Deploy started: Project: xDashControlDEBUG, Configuration: Release ARM ------
+Updating the layout...
+Copying files: Total 9 mb to layout...
+Deployment complete (0:00:16.186). Full package name: "xDashControlDEBUG-uwp_1.0.0.0_arm__he3k629why6xa"
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Deploy: 1 succeeded, 0 failed, 0 skipped ==========
